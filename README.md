@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PRAFULLBAJPAI
 - 👀 I’m interested in Software Developing.
-- 🌱 I’m currently learning React.js.
-- 💞️ I’m looking to collaborate on @codewithharry.
+- 💞️ I’m looking to collaborate .
 - 📫 How to reach me......
 - Email--> prafullbajpai0@gmail.com
 - Whatsapp --> 9125265269
