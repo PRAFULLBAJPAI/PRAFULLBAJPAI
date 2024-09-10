@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PRAFULLBAJPAI
-- 👀 I’m interested in Software Developing.
+- 👀 I’m interested in Software Development.
 - 💞️ I’m looking to collaborate .
 - 📫 How to reach me......
 - Email--> prafullbajpai0@gmail.com
