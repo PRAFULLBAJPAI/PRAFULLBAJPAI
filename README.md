@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PRAFULLBAJPAI
+- 👋 Hi, I’m PRAFULL BAJPAI
 - 👀 I’m interested in Software Development.
 - 💞️ I’m looking to collaborate .
 - 📫 How to reach me......
