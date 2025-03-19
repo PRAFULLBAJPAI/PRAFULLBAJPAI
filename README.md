@@ -7,7 +7,7 @@
 ## 🔎 **About Me**
 - 👀 I'm interested in **Software Development** and exploring new technologies.
 - 💼 Actively seeking opportunities to **collaborate** on exciting projects.
-- 📖 Constant learner, currently enhancing my skills in **Full-Stack Development**.
+- 📖 Constant learner, currently enhancing my skills in **JAVA Full-Stack Development**.
 - 🌱 Exploring cloud computing and DevOps.
 
 ---
