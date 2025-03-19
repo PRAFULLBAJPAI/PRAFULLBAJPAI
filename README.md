@@ -1,12 +1,44 @@
-- 👋 Hi, I’m PRAFULL BAJPAI
-- 👀 I’m interested in Software Development.
-- 💞️ I’m looking to collaborate .
-- 📫 How to reach me......
-- Email--> prafullbajpai0@gmail.com
-- Whatsapp --> 9125265269
-- Contact No.--> 9125265269
+# 👋 Hi, I'm **PRAFULL BAJPAI**
 
-<!---
-PRAFULLBAJPAI/PRAFULLBAJPAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Software Developer** | 💡 Passionate about coding and problem-solving | 🤝 Open to collaborations
+
+---
+
+## 🔎 **About Me**
+- 👀 I'm interested in **Software Development** and exploring new technologies.
+- 💼 Actively seeking opportunities to **collaborate** on exciting projects.
+- 📖 Constant learner, currently enhancing my skills in **Full-Stack Development**.
+- 🌱 Exploring cloud computing and DevOps.
+
+---
+
+## ✨ **Skills & Technologies**
+- **Languages:** Java, Python, JavaScript, C++
+- **Web Development:** React, Node.js, Express, HTML, CSS
+- **Database Management:** MySQL, MongoDB
+- **Version Control:** Git, GitHub
+- **Tools & Platforms:** Docker, Jenkins, AWS, Linux
+
+---
+
+## 💬 **Let's Connect!**
+- 📧 **Email:** [prafullbajpai0@gmail.com](mailto:prafullbajpai0@gmail.com)
+- 📱 **WhatsApp:** +91 9125265269
+- 📞 **Contact:** +91 9125265269
+- 💼 **LinkedIn:** [linkedin.com/in/prafullbajpai](https://linkedin.com/in/prafullbajpai)
+- 🐦 **Twitter:** [@prafullbajpai](https://twitter.com/prafullbajpai)
+
+---
+
+## 📌 **GitHub Stats**
+![Prafull's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PRAFULLBAJPAI&show_icons=true&theme=radical)
+
+---
+
+## 🌟 **Quote I Live By:**
+> "The best way to predict the future is to invent it." – Alan Kay
+
+---
+
+Thank you for visiting my profile! Feel free to check out my repositories and contribute. 😊
+
