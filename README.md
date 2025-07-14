@@ -13,11 +13,11 @@
 ---
 
 ## ✨ **Skills & Technologies**
-- **Languages:** Java, Python, JavaScript, C++
-- **Web Development:** React, Node.js, Express, HTML, CSS
+- **Languages:** Java, Python
+- **Web Development:**  JavaScript, React, Node.js, Express, HTML, CSS
 - **Database Management:** MySQL, MongoDB
 - **Version Control:** Git, GitHub
-- **Tools & Platforms:** Docker, Jenkins, AWS, Linux
+- **Tools & Platforms:** Docker, Jenkins, AWS, Linux, AI
 
 ---
 
