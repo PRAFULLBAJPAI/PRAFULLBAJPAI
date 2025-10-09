@@ -56,7 +56,7 @@
 ## 💼 **Professional Experience**
 
 ### 💻 Software Developer @ Doritech Consaltancy & Software Solutions.  
-*🗓️ Jan 2024 – Present*  
+*🗓️ April 2024 – Present*  
 - Developed and maintained **Java-based backend services** using Spring Boot.  
 - Built interactive UIs with **React.js**, **HTML**, **CSS**, and **Bootstrap**.  
 - Integrated **REST APIs** for seamless frontend-backend communication.  
